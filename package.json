@@ -1,0 +1,10 @@
+{
+  "name": "audio-1",
+  "version": "1.0.0",
+  "description": "Real time audio programming for music creation, dj mixing, and live performance.",
+  "main": "index.js",
+  "repository": "https://github.com/dreamscale-io/audio-1.git",
+  "author": "ZoeDreams <kara@dreamscale.io>",
+  "license": "MIT",
+  "private": false
+}

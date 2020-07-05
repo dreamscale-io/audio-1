@@ -1,2 +1,2 @@
-# audio-1
-Real time audio programming for music creation, dj mixing, and live performance.
+# Audio 1
+Audio 1 is an Audio Develoment Environment (ADE) for programming music, songs, dj mixing, and live performance.
